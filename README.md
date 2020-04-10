@@ -6,3 +6,6 @@ We are trying to predict total sales for every product and store in the next mon
 
 ### Requirements:
 Python 3.x
+
+### Data:
+https://www.kaggle.com/c/competitive-data-science-predict-future-sales/data
